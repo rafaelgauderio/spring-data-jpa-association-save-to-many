@@ -6,7 +6,6 @@ public class PackageDTO {
     private Long id;
     private String name;
 
-
     public PackageDTO(Long id, String name) {
         this.id = id;
         this.name = name;

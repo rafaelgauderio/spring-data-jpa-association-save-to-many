@@ -11,7 +11,6 @@ public class ProductDTO {
     private Long id;
     private String name;
     private Double price;
-
     private List<PackageDTO> packages = new ArrayList<PackageDTO>();
 
     public ProductDTO(Long id, String name, Double price) {
