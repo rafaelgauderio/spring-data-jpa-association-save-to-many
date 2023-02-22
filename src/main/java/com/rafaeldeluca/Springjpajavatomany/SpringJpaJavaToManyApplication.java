@@ -9,5 +9,4 @@ public class SpringJpaJavaToManyApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringJpaJavaToManyApplication.class, args);
 	}
-
 }
